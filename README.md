@@ -33,3 +33,11 @@ Twelve monthly Divvy files, July 2025 to June 2026, were imported into BigQuery 
 ## Limitations
 
 The records describe rides, not riders: there is no rider identifier, so repeat use and audience size cannot be measured. Trip purpose, demographics and residence are not recorded. Location analysis covers only rides with a recorded station ID. The station name field contains inconsistent spellings and, in a small number of cases, distinct locations sharing a station ID; the analysis is unaffected because rides are grouped by station ID throughout.
+
+## About me
+
+I came to data analysis from aviation. I worked on avionics in the military and then in civil aviation, and later studied Earth science, sustainability and renewable energy with the Open University. Fault finding on aircraft and reading environmental data both depend on working from the evidence and being careful about what it does and does not support. That is what drew me to this.
+
+This project is my capstone for the Google Data Analytics Professional Certificate. I am looking for junior data analyst roles.
+
+LinkedIn: [stuart-hibberd-bsc-hons-open](https://www.linkedin.com/in/stuart-hibberd-bsc-hons-open-3768568)
