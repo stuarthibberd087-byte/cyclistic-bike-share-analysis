@@ -26,6 +26,7 @@ Twelve monthly Divvy files, July 2025 to June 2026, were imported into BigQuery 
 | Path | Contents |
 | --- | --- |
 | `cyclistic_case_study.docx` | The full case study: task, data, cleaning, analysis, conclusions, recommendations, limitations |
+| `cyclistic_capstone_presentation.pdf` | Stakeholder presentation summarising the findings, recommendations and limitations |
 | `sql/` | The complete numbered query sequence, 01 to 23, in execution order: import validation (01-04), data-quality checks (05-11b), cleaning (12-13), analysis (14-21), map data (22) and a station-name integrity check (23) |
 | `data_dictionary.md` | Columns of the source files and of the cleaned table |
 
