@@ -40,4 +40,4 @@ I came to data analysis from aviation. I worked on avionics in the military and 
 
 This project is my capstone for the Google Data Analytics Professional Certificate. I am looking for junior data analyst roles.
 
-LinkedIn: [stuart-hibberd-bsc-hons-open](https://www.linkedin.com/in/stuart-hibberd-bsc-hons-open-3768568)
+LinkedIn: [linkedin.com/in/stuarthibberd](https://www.linkedin.com/in/stuarthibberd)
